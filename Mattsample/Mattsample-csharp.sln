@@ -18,6 +18,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 <<<<<<< HEAD
+<<<<<<< HEAD
 									GlobalSection(MonoDevelopProperties) = preSolution
 =======
 					GlobalSection(MonoDevelopProperties) = preSolution
@@ -25,6 +26,9 @@ Global
 =======
 							GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> parent of 91b166d... lolz2
+=======
+						GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> parent of 427eaa7... TestScript3 - I was here
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
