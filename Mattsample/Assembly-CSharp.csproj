@@ -53,8 +53,8 @@
      <Compile Include="Assets\Scripts\MainCharacterScript.cs" />
      <Compile Include="Assets\Scripts\MainMenuScript.cs" />
      <Compile Include="Assets\Scripts\RockPaperScissorManager.cs" />
-     <Compile Include="Assets\Scripts\TestScript.cs" />
      <Compile Include="Assets\Scripts\TestScript2.cs" />
+     <Compile Include="Assets\Scripts\TestScript3.cs" />
      <Compile Include="Assets\Scripts\WeakEnemySampleScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>e:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
